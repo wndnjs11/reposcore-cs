@@ -381,6 +381,3 @@ CallMethod( param1 , param2 );
 - [.NET 런타임 코딩 스타일 가이드](https://github.com/dotnet/runtime/blob/main/docs/coding-guidelines/coding-style.md)
 
 ---
-
-> 본 컨벤션은 팀 협의를 통해 지속적으로 개선될 수 있습니다.  
-> 변경 사항이 있을 경우 PR을 통해 제안해 주세요.
