@@ -102,11 +102,11 @@ dotnet add package Cocona
 
 6.3 .csproj 파일 반영 방식
 패키지를 설치하면 .csproj 파일에 다음과 같이 자동으로 추가됩니다.
-
+```xml
 <ItemGroup>
   <PackageReference Include="Octokit" Version="x.x.x" />
 </ItemGroup>
-
+```
 .csproj 파일은 프로젝트의 의존성을 관리하는 핵심 파일입니다.
 
 6.4 패키지 버전 관리
